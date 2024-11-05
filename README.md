@@ -7,7 +7,7 @@ Prérequis
     Composer
     Node.js et npm
     Laravel 11.9+
-    Serveur MySQL ou SQLite
+    Serveur MySQL 
 
 Installation
 
@@ -15,8 +15,8 @@ Installation
 
     bash
 
-git clone https://github.com/votre-utilisateur/task-manager.git
-cd task-manager
+git clone https://github.com/Tchach-Nelson/test_technique.git
+cd test_technique
 
 Installez les dépendances Laravel :
 
